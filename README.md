@@ -64,19 +64,19 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+        src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"
         width="48"
         height="48"
-        alt="Material UI"
+        alt="Node.js"
       />
       <br /><strong>Material UI</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+        src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"
         width="48"
         height="48"
-        alt="Bootstrap"
+        alt="Express"
       />
       <br /><strong>Bootstrap</strong>
     </td>
@@ -84,73 +84,73 @@
   <tr>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+        src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"
         width="48"
         height="48"
-        alt="Node.js"
+        alt="MongoDB"
       />
       <br /><strong>Node.js</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+        src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
         width="48"
         height="48"
-        alt="Express"
+        alt="Git"
       />
       <br /><strong>Express</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+        src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"
         width="48"
         height="48"
-        alt="MongoDB"
+        alt="NPM"
       />
       <br /><strong>MongoDB</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+        src=""
         width="48"
         height="48"
-        alt="PostgreSQL"
+        alt="Postman"
       />
       <br /><strong>PostgreSQL</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+        src=""
         width="48"
         height="48"
-        alt="Firebase"
+        alt="Pug"
       />
       <br /><strong>Firebase</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"
         width="48"
         height="48"
-        alt="Git"
+        alt="Tensorflow"
       />
       <br /><strong>Git</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+        src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg"
         width="48"
         height="48"
-        alt="Npm"
+        alt="OpenCV"
       />
       <br /><strong>Npm</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
+        src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg"
         width="48"
         height="48"
-        alt="Jest"
+        alt="PyTorch"
       />
       <br /><strong>Jest</strong>
     </td>
