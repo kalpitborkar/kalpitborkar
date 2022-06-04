@@ -1,8 +1,8 @@
-# 👋 Hey there
+# hi.
 
 <div align="justify">
-  hi.<br />
-  i program stuff.
+  I program stuff.<br />
+  ¯\_(ツ)_/¯<br />
 </div>
 
 # 🔧 Technologies & Tools
@@ -46,7 +46,7 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src=""
+        src="https://hackr.io/tutorials/assembly-language/logo-assembly-language.svg?ver=1603208610"
         width="48"
         height="48"
         alt="Assembly"
@@ -55,12 +55,14 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src=""
+        src="https://play-lh.googleusercontent.com/xeuSfQHt8wEb-JdcXLtReGF-KO8_Rd2UMOL0vSB6bS9qlxdAGQ0VR4mM9wVeEb76EA=w480-h960-rw"
         width="48"
         height="48"
         alt="VHDL"
       />
       <br /><strong>VHDL</strong>
+  </tr>
+  <tr>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -80,8 +82,6 @@
       />
       <br /><strong>Express</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"
@@ -93,21 +93,12 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
+        src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
         width="48"
         height="48"
-        alt="Git"
+        alt="Postman"
       />
-      <br /><strong>Git</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"
-        width="48"
-        height="48"
-        alt="NPM"
-      />
-      <br /><strong>NPM</strong>
+      <br /><strong>Postman</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -129,50 +120,12 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"
+        src="https://www.vectorlogo.zone/logos/pugjs/pugjs-icon.svg"
         width="48"
         height="48"
-        alt="Tensorflow"
+        alt="Pug"
       />
-      <br /><strong>TensorFlow</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg"
-        width="48"
-        height="48"
-        alt="OpenCV"
-      />
-      <br /><strong>OpenCV</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg"
-        width="48"
-        height="48"
-        alt="PyTorch"
-      />
-      <br /><strong>PyTorch</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"
-        width="48"
-        height="48"
-        alt="Keras"
-      />
-      <br /><strong>Keras</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
-        width="48"
-        height="48"
-        alt="Git"
-      />
-      <br /><strong>Git</strong>
+      <br /><strong>Pug</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -183,32 +136,25 @@
       />
       <br /><strong>NPM</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src=""
-        width="48"
-        height="48"
-        alt="Postman"
-      />
-      <br /><strong>Postman</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src=""
-        width="48"
-        height="48"
-        alt="Pug"
-      />
-      <br /><strong>Pug</strong>
-    </td>
+  </tr>
+  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"
         width="48"
         height="48"
-        alt="Tensorflow"
+        alt="TensorFlow"
       />
       <br /><strong>TensorFlow</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"
+        width="48"
+        height="48"
+        alt="Keras"
+      />
+      <br /><strong>Keras</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -228,14 +174,34 @@
       />
       <br /><strong>PyTorch</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"
+        width="48"
+        height="48"
+        alt="Matplotlib"
+      />
+      <br /><strong>Matplotlib</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"
+        width="48"
+        height="48"
+        alt="Pandas"
+      />
+      <br /><strong>Pandas</strong>
   </tr>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
+        width="48"
+        height="48"
+        alt="Git"
+      />
+      <br /><strong>Git</strong>
+    </td>
+   </tr>
 </table>
 
-# 📈 Stats
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=kalpitborkar&show_icons=true&theme=react&&hide_border=true"
-/>
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=kalpitborkar&&theme=react&&hide_border=true"
-/>
