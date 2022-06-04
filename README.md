@@ -69,7 +69,7 @@
         height="48"
         alt="Node.js"
       />
-      <br /><strong>Material UI</strong>
+      <br /><strong>Node.js</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -78,7 +78,7 @@
         height="48"
         alt="Express"
       />
-      <br /><strong>Bootstrap</strong>
+      <br /><strong>Express</strong>
     </td>
   </tr>
   <tr>
@@ -89,7 +89,7 @@
         height="48"
         alt="MongoDB"
       />
-      <br /><strong>Node.js</strong>
+      <br /><strong>MongoDB</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -98,7 +98,7 @@
         height="48"
         alt="Git"
       />
-      <br /><strong>Express</strong>
+      <br /><strong>Git</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -107,7 +107,7 @@
         height="48"
         alt="NPM"
       />
-      <br /><strong>MongoDB</strong>
+      <br /><strong>NPM</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -116,7 +116,7 @@
         height="48"
         alt="Postman"
       />
-      <br /><strong>PostgreSQL</strong>
+      <br /><strong>Postman</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -125,7 +125,7 @@
         height="48"
         alt="Pug"
       />
-      <br /><strong>Firebase</strong>
+      <br /><strong>Pug</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -134,7 +134,7 @@
         height="48"
         alt="Tensorflow"
       />
-      <br /><strong>Git</strong>
+      <br /><strong>TensorFlow</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -143,7 +143,7 @@
         height="48"
         alt="OpenCV"
       />
-      <br /><strong>Npm</strong>
+      <br /><strong>OpenCV</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -152,7 +152,7 @@
         height="48"
         alt="PyTorch"
       />
-      <br /><strong>Jest</strong>
+      <br /><strong>PyTorch</strong>
     </td>
   </tr>
 </table>
