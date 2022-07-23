@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Kalpit and I'm a electrical engineering student at Indian Institute of Technology Bombay (IIT Bombay). Here's some info about me!
+My name is Kalpit and I'm an electrical engineering student at Indian Institute of Technology Bombay (IIT Bombay). Here's some info about me!
 
 🌱 Interests:
 - Web development
