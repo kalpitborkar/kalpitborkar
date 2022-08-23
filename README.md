@@ -3,9 +3,9 @@
 My name is Kalpit and I'm an electrical engineering student at Indian Institute of Technology Bombay (IIT Bombay). Here's some info about me!
 
 🌱 Interests:
+- Algorithms
 - Web development
 - Machine learning (Computer Vision)
-- Algorithms
 
 💬 Reach me by email or LinkedIn! kalpitborkar@gmail.com | www.linkedin.com/in/kalpitborkar
 
