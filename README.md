@@ -11,7 +11,6 @@ My name is Kalpit and I'm an electrical engineering student at Indian Institute 
 
 📫 Visit my website: https://kalpitborkar.github.io/
 
-Seeking Fall 2022 software internships!
 
 
 
