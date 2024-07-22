@@ -4,7 +4,6 @@ My name is Kalpit and I'm an electrical engineering student at Indian Institute 
 
 🌱 Interests:
 - Algorithms
-- Low Level Design
 - Machine learning (Computer Vision)
 
 💬 Reach me by email or LinkedIn! kalpitborkar@gmail.com | www.linkedin.com/in/kalpitborkar
